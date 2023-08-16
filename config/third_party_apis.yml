@@ -1,0 +1,9 @@
+# config/third_party_apis.yml
+development:
+  api1: https://api.example.com/webhook
+  api2: https://anotherapi.example.com/update
+
+production:
+  api1: https://api.example.com/webhook
+  api2: https://anotherapi.example.com/update
+
