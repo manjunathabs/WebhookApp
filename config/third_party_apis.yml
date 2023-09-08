@@ -1,6 +1,7 @@
 # config/third_party_apis.yml
 development:
   api1: https://api.example.com/webhook
+        # api1: https://jsonplaceholder.typicode.com/todos/1
   api2: https://anotherapi.example.com/update
 
 production:
